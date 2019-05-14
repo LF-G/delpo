@@ -1,0 +1,76 @@
+= form_for @obra do |f|
+  - if @obra.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@obra.errors.count, "error")} prohibited this obra from being saved:"
+      %ul
+        - @obra.errors.full_messages.each do |message|
+          %li= message
+
+  .field
+    = f.label :autor_id
+    = f.text_field :autor_id
+  .field
+    = f.label :organizador_id
+    = f.number_field :organizador_id
+  .field
+    = f.label :editor_id
+    = f.number_field :editor_id
+  .field
+    = f.label :editora_id
+    = f.text_field :editora_id
+  .field
+    = f.label :texto_data
+    = f.date_select :texto_data, start_year: 1100
+  .field
+    = f.label :texto_data_real
+    = f.text_field :texto_data_real
+  .field
+    = f.label :publicacao_data
+    = f.date_select :publicacao_data, start_year: 1100
+  .field
+    = f.label :publicacao_data_real
+    = f.text_field :publicacao_data_real
+  .field
+    = f.label :texto_titulo
+    = f.text_area :texto_titulo
+  .field
+    = f.label :publicacao_titulo
+    = f.text_area :publicacao_titulo
+  .field
+    = f.label :texto_local
+    = f.text_area :texto_local
+  .field
+    = f.label :localiz
+    = f.text_field :localiz
+  .field
+    = f.label :edicao_numero
+    = f.text_field :edicao_numero
+  .field
+    = f.label :edicao_volume
+    = f.text_field :edicao_volume
+  .field
+    = f.label :edicao_tipo
+    = f.text_field :edicao_tipo
+  .field
+    = f.label :cota
+    = f.text_field :cota
+  .field
+    = f.label :univdisc
+    = f.text_field :univdisc
+  .field
+    = f.label :genero
+    = f.text_field :genero
+  .field
+    = f.label :suporte
+    = f.text_field :suporte
+  .field
+    = f.label :concedente
+    = f.text_field :concedente
+  .field
+    = f.label :comentarios
+    = f.text_area :comentarios
+  .field
+    = f.label :moedor
+    = f.number_field :moedor
+  .actions
+    = f.submit 'Save'

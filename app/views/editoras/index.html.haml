@@ -1,0 +1,25 @@
+%h1 Listing editoras
+
+%table
+  %thead
+    %tr
+      %th Nome
+      %th Cidade
+      %th
+      %th
+      %th
+
+  %tbody
+    - @editoras.zip(@cities).each do |editora, city|
+      %tr
+        %td= editora.nome
+        %td= city
+        %td= link_to 'Show', editora
+        %td= link_to 'Edit', edit_editora_path(editora)
+        %td= link_to 'Destroy', editora, method: :delete, data: { confirm: 'Are you sure?' }
+
+%br
+
+= link_to 'New Editora', new_editora_path
+%br
+= link_to 'Página Inicial', root_path

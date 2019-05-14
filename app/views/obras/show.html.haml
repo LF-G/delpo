@@ -1,0 +1,72 @@
+%p#notice= notice
+
+%p
+  %b Autor:
+  = @autor
+%p
+  %b Organizador:
+  = @obra.organizador_id
+%p
+  %b Editor:
+  = @obra.editor_id
+%p
+  %b Editora:
+  = @editora
+%p
+  %b Texto data:
+  = @obra.texto_data
+%p
+  %b Texto data real:
+  = @obra.texto_data_real
+%p
+  %b Publicao data:
+  = @obra.publicacao_data
+%p
+  %b Publicacao data real:
+  = @obra.publicacao_data_real
+%p
+  %b Texto titulo:
+  = @obra.texto_titulo
+%p
+  %b Publicacao titulo:
+  = @obra.publicacao_titulo
+%p
+  %b Texto local:
+  = @obra.texto_local
+%p
+  %b Localiz:
+  = @obra.localiz
+%p
+  %b Edicao numero:
+  = @obra.edicao_numero
+%p
+  %b Edicao volume:
+  = @obra.edicao_volume
+%p
+  %b Edicao tipo:
+  = @obra.edicao_tipo
+%p
+  %b Cota:
+  = @obra.cota
+%p
+  %b Univdisc:
+  = @obra.univdisc
+%p
+  %b Genero:
+  = @obra.genero
+%p
+  %b Suporte:
+  = @obra.suporte
+%p
+  %b Concedente:
+  = @obra.concedente
+%p
+  %b Comentarios:
+  = @obra.comentarios
+%p
+  %b Moedor:
+  = @obra.moedor
+
+= link_to 'Edit', edit_obra_path(@obra)
+\|
+= link_to 'Back', obras_path

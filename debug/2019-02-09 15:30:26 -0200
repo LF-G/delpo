@@ -1,0 +1,105 @@
+Iniciando log
+
+taq encontrada para eu: 1569-12-31
+flex encontrada para eu: eu
+palavra: eu, Eu adicionada. contexto: ﻿Eu vou verificar.
+
+taq encontrada para vou: 
+palavra: eu, vou adicionada. contexto: ﻿Eu vou verificar.
+
+taq encontrada para a: 1712-12-31
+flex encontrada para a: a
+palavra: a, A adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para revolta: 1808-06-16
+flex encontrada para revolta: revolta
+palavra: revolta, revolta adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para militar: 1741-01-21
+palavra: militar, militar adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para de: 1569-12-31
+flex encontrada para de: de
+palavra: de, de adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para de: 1569-12-31
+flex encontrada para de: de
+palavra: de, de adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para janeiro: 1741-01-21
+flex encontrada para janeiro: janeiro
+palavra: janeiro, janeiro adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para de: 1569-12-31
+flex encontrada para de: de
+palavra: de, de adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+caracterisou-se matched  /[-]/
+caracterisou-se matched  /-se$/
+palavra: caracterisou-se, save: caracterisou-se
+palavra after: caracterisou, save: caracterisou
+taq encontrada para caracterisou: 
+palavra: de de , caracterisou adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para precipitação: 1927-07-26
+flex encontrada para precipitação: precipitação
+palavra: precipitação, precipitação adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para com: 1569-12-31
+flex encontrada para com: com
+palavra: com, com adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para que: 1569-12-31
+flex encontrada para que: que
+palavra: que, que adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para foi: 
+palavra: que que , foi adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para decidida: 
+palavra: que que , decidida adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para a: 1712-12-31
+flex encontrada para a: a
+palavra: a, a adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para pouca: 1808-06-16
+flex encontrada para pouca: pouca
+palavra: pouca, pouca adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para ou: 1569-12-31
+flex encontrada para ou: ou
+palavra: ou, ou adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para nenhuma: 1808-06-16
+flex encontrada para nenhuma: nenhuma
+palavra: nenhuma, nenhuma adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para reserva: 1822-04-23
+flex encontrada para reserva: reserva
+palavra: reserva, reserva adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para com: 1569-12-31
+flex encontrada para com: com
+palavra: com, com adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para foi: 
+palavra: com, foi adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para  se: 
+palavra: com,  se adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para durante: 1741-02-11
+palavra: durante, Durante adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para mezes: 
+palavra: durante, mezes adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para uma: 1741-03-30
+flex encontrada para uma: uma
+palavra: uma, uma adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para parte: 1569-12-31

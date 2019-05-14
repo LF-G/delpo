@@ -1,0 +1,16 @@
+%h1 Moer texto
+
+= form_tag 'moer', multipart: true do
+  Arquivo
+  %br
+  = file_field_tag 'file'
+  %br
+  %br
+  Data da obra
+  %br
+  = text_field_tag 'data'
+  %br
+  %br
+  = submit_tag 'Moer'
+%br
+= link_to 'Página Inicial', root_path

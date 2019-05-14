@@ -1,0 +1,42 @@
+%p#notice= notice
+
+%p
+  %b Level:
+  = @usuario.level
+%p
+  %b Username:
+  = @usuario.username
+%p
+  %b Password digest:
+  = @usuario.password
+%p
+  %b Email:
+  = @usuario.email
+%p
+  %b Nome:
+  = @usuario.nome
+%p
+  %b Instituicao:
+  = @usuario.instituicao
+%p
+  %b Lattes:
+  = @usuario.lattes
+%p
+  %b Abreviatura:
+  = @usuario.abreviatura
+%p
+  %b Filologia:
+  = @usuario.filologia
+%p
+  %b Edicao:
+  = @usuario.edicao
+%p
+  %b Programador:
+  = @usuario.programador
+%p
+  %b Produtivo:
+  = @usuario.produtivo
+
+= link_to 'Edit', edit_usuario_path(@usuario)
+\|
+= link_to 'Back', usuarios_path

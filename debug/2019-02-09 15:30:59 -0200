@@ -1,0 +1,1093 @@
+Iniciando log
+
+taq encontrada para eu: 1569-12-31
+flex encontrada para eu: eu
+palavra: eu, Eu adicionada. contexto: ﻿Eu vou verificar.
+
+taq encontrada para vou:
+flex encontrada para vou: eu
+palavra: eu, vou adicionada. contexto: ﻿Eu vou verificar.
+
+taq encontrada para a: 1712-12-31
+palavra: a, A adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para revolta: 1808-06-16
+flex encontrada para revolta: revolta
+palavra: revolta, revolta adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para militar: 1741-01-21
+palavra: militar, militar adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para janeiro: 1741-01-21
+flex encontrada para janeiro: janeiro
+palavra: janeiro, janeiro adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+caracterisou-se matched  /[-]/
+caracterisou-se matched  /-se$/
+palavra: caracterisou-se, save: caracterisou-se
+palavra after: caracterisou, save: caracterisou
+taq encontrada para caracterisou:
+palavra: de de , caracterisou adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para precipitação: 1927-07-26
+palavra: precipitação, precipitação adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para com: 1569-12-31
+flex encontrada para com: com
+palavra: com, com adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para foi:
+palavra: que que , foi adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para decidida:
+palavra: que que , decidida adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para pouca: 1808-06-16
+flex encontrada para pouca: pouca
+palavra: pouca, pouca adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para ou: 1569-12-31
+flex encontrada para ou: ou
+palavra: ou, ou adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para nenhuma: 1808-06-16
+flex encontrada para nenhuma: nenhuma
+palavra: nenhuma, nenhuma adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para reserva: 1822-04-23
+palavra: reserva, reserva adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para com: 1569-12-31
+flex encontrada para com: com
+palavra: com, com adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para foi:
+flex encontrada para foi: com
+palavra: com, foi adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para  se:
+flex encontrada para  se: com
+palavra: com,  se adicionada. contexto: A revolta militar de 31 de janeiro de 1891 caracterisou-se pela precipitação com que foi decidida e a pouca ou nenhuma reserva com que foi organisada.
+
+taq encontrada para durante: 1741-02-11
+palavra: durante, Durante adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para mezes:
+flex encontrada para mezes: durante
+palavra: durante, mezes adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para uma: 1741-03-30
+palavra: uma, uma adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para parte: 1569-12-31
+palavra: parte, parte adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para do: 1569-12-31
+flex encontrada para do: do
+palavra: do, do adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para paiz:
+flex encontrada para paiz: do
+palavra: do, paiz adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para teve: 1874-08-01
+palavra: teve, teve adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para conhecimento: 1569-12-31
+flex encontrada para conhecimento: conhecimento
+palavra: conhecimento, conhecimento adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para minucioso: 1899-01-31
+palavra: minucioso, minucioso adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para se: 1569-12-31
+palavra: se, se adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para conspirava:
+palavra: se se se , conspirava adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para contra: 1569-12-31
+flex encontrada para contra: contra
+palavra: contra, contra adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para monarchia:
+palavra: a o , monarchia adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para na: 1569-12-31
+flex encontrada para na: na
+palavra: na, na adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para entravam:
+flex encontrada para entravam: na
+palavra: na, entravam adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para elementos:
+flex encontrada para elementos: na
+palavra: na, elementos adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para importancia:
+palavra: de de , importancia adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para recrutados:
+palavra: de de , recrutados adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para na: 1569-12-31
+flex encontrada para na: na
+palavra: na, na adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para officialidade:
+flex encontrada para officialidade: na
+palavra: na, officialidade adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para regimentos:
+flex encontrada para regimentos: na
+palavra: na, regimentos adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: Durante mezes uma parte do paiz teve conhecimento quasi minucioso de que se conspirava contra a monarchia e que na conspiração entravam elementos de importancia recrutados na officialidade dos regimentos que a guarneciam.
+
+taq encontrada para no: 1569-12-31
+palavra: no, No adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para emtanto:
+palavra: no no , emtanto adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para explosão: 1874-08-01
+flex encontrada para explosão: explosão
+palavra: explosão, explosão adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para madrugada: 1741-03-30
+flex encontrada para madrugada: madrugada
+palavra: madrugada, madrugada adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para fez: 1990-09-08
+palavra: fez, fez adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para triumphar:
+palavra: fazer fazer fazer fazer fazer fazer fazer fez fazer fazer , triumphar adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para pôr: 1569-12-31
+palavra: pôr, por adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para algumas:
+palavra: algumas, algumas adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para horas:
+palavra: horas, horas adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para bandeira: 1741-08-05
+palavra: bandeira, bandeira adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para verde: 1832-01-16
+palavra: verde, verde adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para surprehendeu:
+palavra: verde verde , surprehendeu adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para muita: 1569-12-31
+palavra: muita, muita adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para gente: 1741-05-02
+flex encontrada para gente: gente
+palavra: gente, gente adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para porque: 1712-12-31
+flex encontrada para porque: porque
+palavra: porque, porque adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para apenas: 1813-01-31
+flex encontrada para apenas: apenas
+palavra: apenas, apenas adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para uma: 1741-03-30
+palavra: uma, uma adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para minoria: 1838-02-24
+flex encontrada para minoria: minoria
+palavra: minoria, minoria adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para não: 1569-12-31
+flex encontrada para não: não
+palavra: não, não adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para julgava:
+flex encontrada para julgava: não
+palavra: não, julgava adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para extemporaneo:
+flex encontrada para extemporaneo: não
+palavra: não, extemporaneo adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para o:
+flex encontrada para o: não
+palavra: não, o adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para rebentar: 1822-06-15
+palavra: rebentar, rebentar adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para da: 1569-12-31
+palavra: da, da adicionada. contexto: No emtanto a explosão patriotica, que na madrugada de 31 fez triumphar por algumas horas a bandeira verde e vermelha, surprehendeu muita gente porque apenas uma insignificante minoria não julgava extemporaneo o _rebentar da bomba_.
+
+taq encontrada para a: 1712-12-31
+palavra: a, A adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+taq encontrada para causa: 1569-12-31
+palavra: causa, causa adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+taq encontrada para unica:
+palavra: causa causar , unica adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+taq encontrada para do: 1569-12-31
+flex encontrada para do: do
+palavra: do, do adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+taq encontrada para movimento: 1822-05-04
+palavra: movimento, movimento adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+podemol-a matched  /[-]/
+podemol-a matched  /(w+)l-([oa]s?)$/
+palavra: podemol-a, save: podemol-a
+palavra after acertaLema: podemor, save: podemor
+taq encontrada para podemor:
+palavra: movimento movimento , podemor adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+taq encontrada para filiar: 1931-03-27
+palavra: filiar, filiar adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+taq encontrada para no: 1569-12-31
+palavra: no, no adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: A causa unica do movimento podemol-a filiar no _ultimatum_ de 1890.
+
+taq encontrada para espaço: 1741-04-05
+palavra: espaço, espaço adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para um: 1569-12-31
+palavra: um, um adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para agitação: 1899-01-31
+palavra: agitação, agitação adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para essa: 1808-06-16
+flex encontrada para essa: essa
+palavra: essa, essa adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para chicotada:
+flex encontrada para chicotada: essa
+palavra: essa, chicotada adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para provocara:
+flex encontrada para provocara: essa
+palavra: essa, provocara adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para nos: 1569-12-31
+palavra: nos, nos adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para primeiros:
+palavra: nos nos , primeiros adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+instantes--agitação matched  /[-]/
+instantes--agitação matched  /[-]/ composta
+palavra: instantes--agitação, save: instantes--agitação
+taq encontrada para instantes--agitação:
+palavra: nos nos , instantes--agitação adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para no: 1569-12-31
+palavra: no, no adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para dizer: 1711-03-28
+palavra: dizer, dizer adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para trouxera:
+palavra: de de , trouxera adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para pela: 1569-12-31
+flex encontrada para pela: pela
+palavra: pela, pela adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para primeira: 1741-02-11
+palavra: primeira, primeira adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para vez: 1569-12-31
+palavra: vez, vez adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para para: 1569-12-31
+palavra: para, para adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para homens:
+palavra: a o , homens adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para graves:
+palavra: a o , graves adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para chapeu:
+palavra: de de , chapeu adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+--por matched  /[-]/
+--por matched  /[-]/ composta
+palavra: --por, save: --por
+taq encontrada para --por:
+palavra: de de , --por adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para espaço: 1741-04-05
+palavra: espaço, espaço adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para um: 1569-12-31
+palavra: um, um adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para essa: 1808-06-16
+flex encontrada para essa: essa
+palavra: essa, essa adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para agitação: 1899-01-31
+palavra: agitação, agitação adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para minou:
+palavra: agitação agitação , minou adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para profundamente: 1888-09-18
+palavra: profundamente, profundamente adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para diversas:
+palavra: profundamente profundamente , diversas adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para camadas:
+palavra: profundamente profundamente , camadas adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para sociaes:
+palavra: profundamente profundamente , sociaes adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para augmentar:
+flex encontrada para augmentar: e
+palavra: e, augmentar adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para pôr: 1569-12-31
+palavra: pôr, por adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para uma: 1741-03-30
+palavra: uma, uma adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para forma: 1569-12-31
+palavra: forma, forma adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para extraordinaria:
+palavra: forma formar forma , extraordinaria adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para o:
+palavra: forma formar forma , o adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para descontentamento: 1981-12-18
+palavra: descontentamento, descontentamento adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para da: 1569-12-31
+palavra: da, da adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para sua: 1569-12-31
+palavra: sua, sua adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para hostilidade: 1807-11-26
+flex encontrada para hostilidade: hostilidade
+palavra: hostilidade, hostilidade adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para contra: 1569-12-31
+flex encontrada para contra: contra
+palavra: contra, contra adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para o:
+flex encontrada para o: contra
+palavra: contra, o adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para regimen:
+flex encontrada para regimen: contra
+palavra: contra, regimen adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para monarchico:
+flex encontrada para monarchico: contra
+palavra: contra, monarchico adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para o:
+flex encontrada para o: e
+palavra: e, o adicionada. contexto: Por espaço d'um anno, a agitação popular, que essa chicotada diplomatica provocara nos primeiros instantes--agitação que, no dizer de João Chagas, trouxera pela primeira vez para a rua, a manifestarem-se, «homens graves e de chapeu alto»--por espaço d'um anno, repetimos, essa agitação minou profundamente diversas camadas sociaes e fez augmentar por uma forma extraordinaria o descontentamento da nação, a sua hostilidade contra o regimen monarchico e o soberano.
+
+taq encontrada para esse: 1741-05-13
+palavra: esse, esse adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para momento: 1808-06-16
+palavra: momento, momento adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para grave: 1807-11-26
+palavra: grave, grave adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para da: 1569-12-31
+palavra: da, da adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para vida: 1741-08-05
+flex encontrada para vida: vida
+palavra: vida, vida adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+substituir-se matched  /[-]/
+substituir-se matched  /-se$/
+palavra: substituir-se, save: substituir-se
+palavra after: substituir, save: substituir
+taq encontrada para substituir: 1822-04-01
+palavra: substituir, substituir adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para o:
+palavra: substituir substituir , o adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para ministerio:
+palavra: substituir substituir , ministerio adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para abatido: 1712-12-31
+flex encontrada para abatido: abatido
+palavra: abatido, abatido adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para pelo: 1569-12-31
+flex encontrada para pelo: pelo
+palavra: pelo, pelo adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para o:
+flex encontrada para o: pelo
+palavra: pelo, o adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para novo: 1741-06-13
+flex encontrada para novo: novo
+palavra: novo, novo adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para procurara:
+flex encontrada para procurara: novo
+palavra: novo, procurara adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para antes: 1711-03-28
+flex encontrada para antes: antes
+palavra: antes, antes adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para mais: 1569-12-31
+palavra: mais, mais adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para nada: 1741-03-30
+palavra: nada, nada adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para deitar: 1880-06-16
+palavra: deitar, deitar adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para uma: 1741-03-30
+palavra: uma, uma adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para escóra:
+palavra: uma uma , escóra adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para ao: 1569-12-31
+palavra: ao, ao adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para desprezando:
+palavra: ao ao ao , desprezando adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para absoluto: 1712-12-31
+flex encontrada para absoluto: absoluto
+palavra: absoluto, absoluto adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para as: 1569-12-31
+palavra: as, as adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para reclamações:
+palavra: as as , reclamações adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para do: 1569-12-31
+flex encontrada para do: do
+palavra: do, do adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para sua: 1569-12-31
+palavra: sua, sua adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para grita: 1971-09-17
+palavra: grita, grita adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para sedenta:
+palavra: grita grita , sedenta adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+taq encontrada para  se:
+palavra: de de ,  se adicionada. contexto: Viu-se claramente, n'esse momento grave da vida portugueza, que, ao substituir-se o ministerio abatido pelo _ultimatum_, o novo governo procurara antes de mais nada deitar uma escóra ao throno, desprezando em absoluto as reclamações do povo, a sua grita sedenta de justiça.
+
+calcára-se matched  /[-]/
+calcára-se matched  /-se$/
+palavra: calcára-se, save: Calcára-se
+palavra after: calcára, save: calcára
+taq encontrada para calcára:
+palavra: calcára, calcára adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para patria: 1813-01-31
+flex encontrada para patria: patria
+palavra: patria, patria adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para para: 1569-12-31
+palavra: para, para adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para sustentar: 1813-01-31
+palavra: sustentar, sustentar adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para no: 1569-12-31
+palavra: no, no adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para poder: 1569-12-31
+flex encontrada para poder: poder
+palavra: poder, poder adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para o:
+flex encontrada para o: poder
+palavra: poder, o adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para monarcha: 1814-12-31
+flex encontrada para monarcha: monarcha
+palavra: monarcha, monarcha adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para  se:
+flex encontrada para  se: monarcha
+palavra: monarcha,  se adicionada. contexto: Calcára-se a patria para sustentar no poder o monarcha brigantino.
+
+taq encontrada para dignidade: 1712-12-31
+palavra: dignidade, dignidade adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para da: 1569-12-31
+palavra: da, da adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para o:
+palavra: de da , o adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para seu: 1569-12-31
+palavra: seu, seu adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para anceio:
+flex encontrada para anceio: seu
+palavra: seu, anceio adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para fervoroso: 1822-05-22
+palavra: fervoroso, fervoroso adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para o:
+palavra: que que , o adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para obrigasse:
+palavra: que que , obrigasse adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para politica:
+palavra: a o , politica adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para governativa:
+palavra: a o , governativa adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para mudar: 1807-11-26
+palavra: mudar, mudar adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para trabalhar: 1741-08-12
+palavra: trabalhar, trabalhar adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para uma: 1741-03-30
+palavra: uma, uma adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para outro: 1712-12-31
+flex encontrada para outro: outro
+palavra: outro, outro adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para foram:
+flex encontrada para foram: outro
+palavra: outro, foram adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para espesinhados:
+flex encontrada para espesinhados: outro
+palavra: outro, espesinhados adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para pelo: 1569-12-31
+flex encontrada para pelo: pelo
+palavra: pelo, pelo adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para empenho: 1711-03-28
+palavra: empenho, empenho adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para dos: 1569-12-31
+palavra: dos, dos adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para aulicos:
+palavra: dos do , aulicos adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para monarchia:
+palavra: dos do , monarchia adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para em: 1569-12-31
+flex encontrada para em: em
+palavra: em, em adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+precavel-a matched  /[-]/
+precavel-a matched  /(w+)l-([oa]s?)$/
+palavra: precavel-a, save: precavel-a
+palavra after acertaLema: precaver, save: precaver
+taq encontrada para precaver:
+flex encontrada para precaver: em
+palavra: em, precaver adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para da: 1569-12-31
+palavra: da, da adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para marcha: 1822-04-01
+flex encontrada para marcha: marcha
+palavra: marcha, marcha adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para progressiva:
+flex encontrada para progressiva: marcha
+palavra: marcha, progressiva adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para das: 1569-12-31
+palavra: das, das adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para ideias:
+palavra: das da , ideias adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: A dignidade da nação, o seu anceio fervoroso de que o _ultimatum_ obrigasse a politica governativa a mudar de processos, a trabalhar com seriedade, uma e outro foram espesinhados pelo empenho dos aulicos da monarchia em precavel-a da marcha progressiva das ideias democraticas.
+
+taq encontrada para ahi:
+palavra: ahi, ahi adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para o:
+palavra: o, o adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para exodo:
+palavra: exodo, exodo adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para para: 1569-12-31
+palavra: para, para adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para o:
+flex encontrada para o: para
+palavra: para, o adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para partido: 1741-05-02
+flex encontrada para partido: partido
+palavra: partido, partido adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para republicano: 1880-06-16
+palavra: republicano, republicano adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para muitos: 1569-12-31
+palavra: muitos, muitos adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para dos: 1569-12-31
+palavra: dos, dos adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para homens:
+palavra: dos do , homens adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para então: 1819-04-07
+flex encontrada para então: então
+palavra: então, então adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para tinham:
+flex encontrada para tinham: então
+palavra: então, tinham adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para tentado: 1990-07-28
+flex encontrada para tentado: tentar
+palavra: tentado, tentado adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para servir: 1741-02-15
+palavra: servir, servir adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para os:
+palavra: servir servir , os adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para partidos:
+palavra: servir servir , partidos adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para monarchicos:
+palavra: servir servir , monarchicos adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para com: 1569-12-31
+flex encontrada para com: com
+palavra: com, com adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para boa: 1741-05-11
+palavra: boa, boa adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para fé: 1712-12-31
+flex encontrada para fé: fé
+palavra: fé, fé adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: D'ahi o exodo para o partido republicano de muitos dos homens que até então tinham tentado servir os partidos monarchicos com boa fé e dedicação.
+
+taq encontrada para mais: 1569-12-31
+palavra: mais, Mais adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para adeante:
+palavra: mais mais mais mais mais , adeante adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para na: 1569-12-31
+flex encontrada para na: na
+palavra: na, na adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para medida: 1808-09-28
+palavra: medida, medida adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para do: 1569-12-31
+flex encontrada para do: do
+palavra: do, do adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para esse: 1741-05-13
+palavra: esse, esse adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para periodo: 1814-12-31
+palavra: periodo, periodo adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para historia:
+palavra: período periodo , historia adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para cujos:
+palavra: período periodo , cujos adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para voltamos:
+palavra: período periodo , voltamos adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para germinar:
+palavra: a o , germinar adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para o:
+palavra: a o , o adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para pensamento: 1838-02-24
+flex encontrada para pensamento: pensamento
+palavra: pensamento, pensamento adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para da: 1569-12-31
+palavra: da, da adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para revolta: 1808-06-16
+flex encontrada para revolta: revolta
+palavra: revolta, revolta adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para contribuiram:
+flex encontrada para contribuiram: e
+palavra: e, contribuiram adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para directamente:
+flex encontrada para directamente: e
+palavra: e, directamente adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para para: 1569-12-31
+palavra: para, para adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para ella: 1569-12-31
+palavra: ella, ella adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para rebentasse:
+palavra: ella ela , rebentasse adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para no: 1569-12-31
+palavra: no, no adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para porto: 1741-05-13
+palavra: porto, Porto adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para no: 1569-12-31
+palavra: no, no adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para dia: 1569-12-31
+flex encontrada para dia: dia
+palavra: dia, dia adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para janeiro: 1741-01-21
+flex encontrada para janeiro: janeiro
+palavra: janeiro, janeiro adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: Mais adeante desenvolveremos, na medida do possivel, esse periodo da historia contemporanea, cujos incidentes, voltamos a affirmal-o, fizeram germinar o pensamento da revolta e contribuiram directamente para que ella rebentasse no Porto no dia 31 de janeiro de 1891.
+
+taq encontrada para pôr: 1569-12-31
+palavra: pôr, Por adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para limitaremos:
+palavra: limitaremos, limitaremos adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para o:
+palavra: o, o adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para nosso: 1569-12-31
+flex encontrada para nosso: nosso
+palavra: nosso, nosso adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para papel: 1741-06-17
+palavra: papel, papel adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para modesto: 1849-12-31
+flex encontrada para modesto: modesto
+palavra: modesto, modesto adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para e: 1569-12-31
+palavra: e, e adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para desataviado:
+flex encontrada para desataviado: e
+palavra: e, desataviado adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para chronista:
+flex encontrada para chronista: e
+palavra: e, chronista adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para revolução: 1808-06-16
+flex encontrada para revolução: revolução
+palavra: revolução, Revolução adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para portugueza:
+flex encontrada para portugueza: revolução
+palavra: revolução, Portugueza adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para descrever: 1827-02-28
+flex encontrada para descrever: descrever
+palavra: descrever, descrever adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para o:
+flex encontrada para o: descrever
+palavra: descrever, o adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para occorreu:
+palavra: que que , occorreu adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para em: 1569-12-31
+flex encontrada para em: em
+palavra: em, em adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para lisboa:
+palavra: lisboa, Lisboa adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para mal: 1569-12-31
+palavra: mal, mal adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para se: 1569-12-31
+palavra: se, se adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para da: 1569-12-31
+palavra: da, da adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para momentanea:
+palavra: de da , momentanea adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para victoria:
+palavra: de da , victoria adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para das: 1569-12-31
+palavra: das, das adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para armas:
+palavra: das da , armas adicionada. contexto: Por agora limitaremos o nosso papel de modesto e desataviado chronista da Revolução Portugueza a descrever o que occorreu em Lisboa mal se soube da momentanea victoria das armas republicanas.
+
+taq encontrada para é:
+palavra: é, É adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para interessante: 1808-06-16
+flex encontrada para interessante: interessante
+palavra: interessante, interessante adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para as: 1569-12-31
+palavra: as, as adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para horas:
+palavra: as as , horas adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para mortifera:
+palavra: de de , mortifera adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para espectativa:
+palavra: de de , espectativa adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para que: 1569-12-31
+palavra: que, que adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para a: 1712-12-31
+palavra: a, a adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para capital: 1807-11-26
+palavra: capital, capital adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para emquanto:
+palavra: capital capital , emquanto adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para varias:
+palavra: capital capital , varias adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para leguas:
+palavra: capital capital , leguas adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para distancia:
+palavra: de de , distancia adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para um: 1569-12-31
+palavra: um, um adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para troço:
+palavra: troço, troço adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para de: 1569-12-31
+palavra: de, de adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para valentes:
+palavra: de de , valentes adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para se: 1569-12-31
+palavra: se, se adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para fazia:
+palavra: se se se , fazia adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para massacrar:
+palavra: se se se , massacrar adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para chamada: 1932-09-20
+palavra: chamada, chamada adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.
+
+taq encontrada para guarda: 1741-03-01
+flex encontrada para guarda: guarda
+palavra: guarda, guarda adicionada. contexto: É interessante recordar as horas de mortifera espectativa que a capital soffreu, emquanto a varias leguas de distancia um troço de valentes se fazia massacrar pela chamada _guarda pretoriana_.

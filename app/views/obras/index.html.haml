@@ -1,0 +1,65 @@
+%h1 Listing obras
+
+%table
+  %thead
+    %tr
+      %th Autor
+      %th Organizador
+      %th Editor
+      %th Editora
+      %th Texto data
+      %th Texto data real
+      %th Publicacao data
+      %th Publicacao data real
+      %th Texto titulo
+      %th Publicacao titulo
+      %th Texto local
+      %th Localiz
+      %th Edicao numero
+      %th Edicao volume
+      %th Edicao tipo
+      %th Cota
+      %th Univdisc
+      %th Genero
+      %th Suporte
+      %th Concedente
+      %th Comentarios
+      %th Moedor
+      %th
+      %th
+      %th
+
+  %tbody
+    - @obras.zip(@autores, @editoras).each do |obra, autor, editora|
+      %tr
+        %td= autor
+        %td= obra.organizador_id
+        %td= obra.editor_id
+        %td= editora
+        %td= obra.texto_data
+        %td= obra.texto_data_real
+        %td= obra.publicacao_data
+        %td= obra.publicacao_data_real
+        %td= obra.texto_titulo
+        %td= obra.publicacao_titulo
+        %td= obra.texto_local
+        %td= obra.localiz
+        %td= obra.edicao_numero
+        %td= obra.edicao_volume
+        %td= obra.edicao_tipo
+        %td= obra.cota
+        %td= obra.univdisc
+        %td= obra.genero
+        %td= obra.suporte
+        %td= obra.concedente
+        %td= obra.comentarios
+        %td= obra.moedor
+        %td= link_to 'Show', obra
+        %td= link_to 'Edit', edit_obra_path(obra)
+        %td= link_to 'Destroy', obra, method: :delete, data: { confirm: 'Are you sure?' }
+
+%br
+
+= link_to 'New Obra', new_obra_path
+%br
+= link_to 'Página Inicial', root_path

@@ -1,0 +1,45 @@
+%h1 Listing usuarios
+
+%table
+  %thead
+    %tr
+      %th Level
+      %th Username
+      %th Password
+      %th Email
+      %th Nome
+      %th Instituicao
+      %th Lattes
+      %th Abreviatura
+      %th Filologia
+      %th Edicao
+      %th Programador
+      %th Produtivo
+      %th
+      %th
+      %th
+
+  %tbody
+    - @usuarios.each do |usuario|
+      %tr
+        %td= usuario.level
+        %td= usuario.username
+        %td= usuario.password
+        %td= usuario.email
+        %td= usuario.nome
+        %td= usuario.instituicao
+        %td= usuario.lattes
+        %td= usuario.abreviatura
+        %td= usuario.filologia
+        %td= usuario.edicao
+        %td= usuario.programador
+        %td= usuario.produtivo
+        %td= link_to 'Show', usuario
+        %td= link_to 'Edit', edit_usuario_path(usuario)
+        %td= link_to 'Destroy', usuario, method: :delete, data: { confirm: 'Are you sure?' }
+
+%br
+
+= link_to 'New Usuario', new_usuario_path
+%br
+= link_to 'Página Inicial', root_path

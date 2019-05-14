@@ -1,0 +1,40 @@
+= form_for @autor do |f|
+  - if @autor.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@autor.errors.count, "error")} prohibited this autor from being saved:"
+      %ul
+        - @autor.errors.full_messages.each do |message|
+          %li= message
+
+  .field
+    = f.label :pseudonimo_id
+    = f.number_field :pseudonimo_id
+  .field
+    = f.label :pseudonimo
+    = f.text_field :pseudonimo
+  .field
+    = f.label :cidade_id
+    = f.text_field :cidade_id
+  .field
+    = f.label :alcunha
+    = f.text_field :alcunha
+  .field
+    = f.label :nome
+    = f.text_field :nome
+  .field
+    = f.label :datanasc
+    = f.date_select :datanasc, start_year: 1100
+  .field
+    = f.label :realnasc
+    = f.text_field :realnasc
+  .field
+    = f.label :datamorte
+    = f.date_select :datamorte, start_year: 1100
+  .field
+    = f.label :realmorte
+    = f.text_field :realmorte
+  .field
+    = f.label :biografia
+    = f.text_field :biografia
+  .actions
+    = f.submit 'Save'

@@ -1,0 +1,49 @@
+= form_for @usuario do |f|
+  - if @usuario.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@usuario.errors.count, "error")} prohibited this usuario from being saved:"
+      %ul
+        - @usuario.errors.full_messages.each do |message|
+          %li= message
+
+  .field
+    = f.label :level
+    = f.number_field :level, min: 0, max: 5
+  .field
+    = f.label :username
+    = f.text_field :username
+  .field
+    = f.label :password
+    = f.text_field :password
+  .field
+    = f.label :password_confirmation 
+    = f.password_field :password_confirmation, autocomplete: "new-password" 
+  .field
+    = f.label :email
+    = f.text_field :email, autofocus: true, autocomplete: "email"
+  .field
+    = f.label :nome
+    = f.text_field :nome
+  .field
+    = f.label :instituicao
+    = f.text_field :instituicao
+  .field
+    = f.label :lattes
+    = f.text_field :lattes
+  .field
+    = f.label :abreviatura
+    = f.text_field :abreviatura
+  .field
+    = f.label :filologia
+    = f.check_box :filologia
+  .field
+    = f.label :edicao
+    = f.check_box :edicao
+  .field
+    = f.label :programador
+    = f.check_box :programador
+  .field
+    = f.label :produtivo
+    = f.check_box :produtivo
+  .actions
+    = f.submit 'Save'

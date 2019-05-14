@@ -1,0 +1,41 @@
+%h1 Listing autores
+
+%table
+  %thead
+    %tr
+      %th Pseudonimo
+      %th Pseudonimo
+      %th Cidade
+      %th Alcunha
+      %th Nome
+      %th Datanasc
+      %th Realnasc
+      %th Datamorte
+      %th Realmorte
+      %th Biografia
+      %th
+      %th
+      %th
+
+  %tbody
+    - @autores.zip(@cities).each do |autor, city|
+      %tr
+        %td= autor.pseudonimo_id
+        %td= autor.pseudonimo
+        %td= city
+        %td= autor.alcunha
+        %td= autor.nome
+        %td= autor.datanasc
+        %td= autor.realnasc
+        %td= autor.datamorte
+        %td= autor.realmorte
+        %td= autor.biografia
+        %td= link_to 'Show', autor
+        %td= link_to 'Edit', edit_autor_path(autor)
+        %td= link_to 'Destroy', autor, method: :delete, data: { confirm: 'Are you sure?' }
+
+%br
+
+= link_to 'New Autor', new_autor_path
+%br
+= link_to 'Página Inicial', root_path

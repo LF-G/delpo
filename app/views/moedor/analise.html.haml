@@ -1,0 +1,18 @@
+%p#notice= notice
+
+%table{ :style => "margin: 5%"}
+  %thead
+    %tr
+      %th Palavra
+      %th Classe
+      %th Contexto
+      %th Data
+  %tbody
+    - @palavras.keys.each do |palavra|
+      %tr{ :style => "background-color: #"+@color[palavra][1]}
+        %td= palavra.html_safe
+        %td= @color[palavra][0]
+        %td= @palavras[palavra][0][1].html_safe
+        %td= @taq2[palavra]
+
+= link_to 'Página Inicial', root_path

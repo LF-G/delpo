@@ -1,0 +1,51 @@
+%h1 Delpo
+
+/ = link_to 'Criar Novo Usuário', new_usuario_registration_path
+/ %br
+/ = link_to 'Ver Todos os Usuários', edit_usuario_registration_path
+/ %br
+/ = link_to 'Deslogar', destroy_usuario_session_path, {method: :delete}
+/ %hr
+
+- if current_usuario
+  = link_to 'Logout', destroy_usuario_session_path, {method: :delete}
+- else
+  = link_to 'Login', new_usuario_session_path
+%hr
+
+/ -if current_usuario
+/   = debug current_usuario.level
+
+- if can? :create, :read, @usuario
+  = link_to 'Adicionar Usuário', new_usuario_path
+  %br
+  = link_to 'Ver Usuários', usuarios_path
+  %hr
+
+- if can? :create, :read, @cidade
+  = link_to 'Incluir Nova Cidade', new_cidade_path
+  %br
+  = link_to 'Ver Todas as Cidade', cidades_path
+  %hr
+
+- if can? :create, :read, @editora
+  = link_to 'Incluir Nova Editora', new_editora_path
+  %br
+  = link_to 'Ver Todas as Editora', editoras_path
+  %hr
+
+- if can? :create, :read, @autor
+  = link_to 'Incluir Novo Autor', new_autor_path
+  %br
+  = link_to 'Ver Todos os Autores', autores_path
+  %hr
+
+- if can? :create, :read, @obra
+  = link_to 'Adicionar Obra', new_obra_path
+  %br
+  = link_to 'Ver Todas as Obra', obras_path
+  %hr
+
+- if can? :read, @moedor
+  = link_to 'Moedor', new_moedor_path
+  %hr

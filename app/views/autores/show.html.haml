@@ -1,0 +1,36 @@
+%p#notice= notice
+
+%p
+  %b Pseudonimo:
+  = @autor.pseudonimo_id
+%p
+  %b Pseudonimo:
+  = @autor.pseudonimo
+%p
+  %b Cidade:
+  = @city
+%p
+  %b Alcunha:
+  = @autor.alcunha
+%p
+  %b Nome:
+  = @autor.nome
+%p
+  %b Datanasc:
+  = @autor.datanasc
+%p
+  %b Realnasc:
+  = @autor.realnasc
+%p
+  %b Datamorte:
+  = @autor.datamorte
+%p
+  %b Realmorte:
+  = @autor.realmorte
+%p
+  %b Biografia:
+  = @autor.biografia
+
+= link_to 'Edit', edit_autor_path(@autor)
+\|
+= link_to 'Back', autores_path

@@ -1,0 +1,17 @@
+bundle exec rails db < sql_backup/*.sql
+
+Cidades
+editoras
+autores
+obras
+contextos
+metalemas
+hemilemas
+hiperlemas
+historicoacepcoes
+historicoflexoes
+acepcoes
+obra_autores
+obra_editoras
+resultados
+ultralemas
