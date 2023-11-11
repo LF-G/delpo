@@ -1,3 +1,5 @@
+# DELPo (Dicionário Etimológico da Língua Portuguesa)
+
 Este é um sistema computacional complexo: trata-se de parte do sistema DELPo (Dicionário Etimológico da Língua Portuguesa), vinculado ao
 NEHiLP (Núcleo de Apoio à Pesquisa em Etimologia e História da Língua Portuguesa).
 
