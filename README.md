@@ -2,7 +2,7 @@ Este é um sistema computacional complexo: trata-se de parte do sistema DELPo (D
 NEHiLP (Núcleo de Apoio à Pesquisa em Etimologia e História da Língua Portuguesa).
 
 Todo o sistema foi elaborado por mim em conjunto com Adriano Santin e
-Mauricio Cardoso.
+Mauricio Cardoso durante o ano de 2018.
 
 --
 
